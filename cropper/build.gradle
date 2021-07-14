@@ -3,7 +3,7 @@ apply plugin: 'kotlin-android'
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'kotlin-parcelize'
 
-group='com.github.Canato'
+group='com.github.dry-p'
 
 android {
     compileSdkVersion rootProject.compileSdkVersion
